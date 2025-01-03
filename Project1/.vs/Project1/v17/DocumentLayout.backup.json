@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uD0DC\uD604\\Documents\\GitHub\\assignment3\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC0D90-496D-4B00-B0E4-EC1A9CF0D898}|Project1\\Project1.vcxproj|C:\\Users\\\uAE40\uD0DC\uD604\\Documents\\GitHub\\assignment3\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CEC0D90-496D-4B00-B0E4-EC1A9CF0D898}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uD0DC\uD604\\Documents\\GitHub\\assignment3\\Project1\\Project1\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uD0DC\uD604\\Documents\\GitHub\\assignment3\\Project1\\Project1\\FileName.cpp",
+              "RelativeToolTip": "Project1\\FileName.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T05:49:51.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
